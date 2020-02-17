@@ -14,6 +14,3 @@ Therefore this site was created with a simple goal in mind; documenting the stud
 1. By making it a habbit of documenting the process I aim to put a larger emphasis on understanding the process and subject
 2. By documenting the process I'm able to go back and reflect on my understanding and the journey I have taken
 3. By making it a habbit of writing these documentations I hope to get a bit more motivation to keep up my studies
-
-## Subject areas
-As this site continues to grow
