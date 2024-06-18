@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Course at HiS
-description: A course at the University of Skövde
+title: A test project
+description: A description
 img:  # Upload an image for the project
 importance: 1
-category: University of Skövde
+category: work
 related_publications: true
 ---
 
