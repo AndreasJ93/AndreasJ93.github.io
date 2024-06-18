@@ -129,8 +129,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Andreas Jonasson Research Blog # blog_name will be displayed in your blog page
-blog_description: What it says on the can
+blog_name: Research Journey # blog_name will be displayed in your blog page
+blog_description: A documentation of my journey as a PhD student.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

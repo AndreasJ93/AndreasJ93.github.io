@@ -5,7 +5,7 @@ title: Teaching
 description: To be added
 nav: true
 nav_order: 4
-display_categories: [University of Skövde, Malmö University, Blekinge Institute of Technology]
+display_categories: [University of Skövde, Malmö University]
 horizontal: false
 ---
 

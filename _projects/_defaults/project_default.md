@@ -4,7 +4,7 @@ title: <Title>
 description: <Description>
 img: assets/img/<image> # Upload an image for the project
 importance: 1
-category: work
+category: Work
 related_publications: true
 ---
 

@@ -1,8 +1,10 @@
 ---
 layout: profiles
-permalink: /people/
-title: People
+permalink: /EvenMore/
+title: Even More About Me
 description: Here you can see more about me
+nav: true
+nav_order: 5
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
