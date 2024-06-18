@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: Here you can see more about me
 nav: true
 nav_order: 7
@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about.md
+    content: about_me.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
