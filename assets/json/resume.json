@@ -28,8 +28,8 @@
       "position": "PhD Student",
       "url": "https://mau.se/en/",
       "startDate": "2024-09-01",
-      "endDate": "",
-      "summary": "",
+      "endDate": "Ongoing",
+      "summary": "Starting soon",
       "highlights": []
     },
     {
@@ -38,28 +38,46 @@
       "url": "https://his.se/en/",
       "startDate": "2020-01-01",
       "endDate": "2024-08-31",
-      "summary": "",
-      "highlights": []
+      "summary": "I worked as a lecturer at the University of Skövde for 4 ½ years with a focus on programming and game project courses.",
+      "highlights": [
+        "Course coordinator for the Game Project courses; ME215G - Game Project 1, ME431G - Game Project 2, and ME533G - Game Project 3.",
+        "Responsible for the development of the courses ME431G - Game Project 2, and ME533G - Game Project 3.",
+        "Supervisor and examinator for multiple bachelor theses."
+      ]
     },    
     {
       "name": "Blekinge Institute of Technology",
-      "position": "PhD Student",
+      "position": "Lecturer",
       "url": "https://bth.se/eng/",
-      "startDate": "2018-07-01",
+      "startDate": "2018-06-03",
       "endDate": "2019-12-31",
-      "summary": "",
-      "highlights": []
+      "summary": "Began working directly after my studies and stayed for 1 ½ years.",
+      "highlights": [
+        "Helped develop new C++ courses for the Master in Science and Engineering programs.",
+        "Course responsbile and examinator for C++ courses for both bachelor and master programs."
+      ]
     }
   ],
   "volunteer": [
     {
+      "organization": "Safety Representative",
+      "location": "University of Skövde",
+      "position": "Ordinary",
+      "startDate": "2022-04-06",
+      "endDate": "2024-08-31",
+      "summary": "Elected safety representative by the union at the University of Skövde.",
+      "highlights": [
+        "Driving force behind formalizing the cooperation and work processes between HR and safety representatives."
+      ]
+    },
+    {
       "organization": "SULF",
       "location": "University of Skövde",
       "position": "Elected Official",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "url": "https://sulf.se/",
+      "startDate": "2022-03-31",
+      "endDate": "2024-08-31",
+      "summary": "During my time at the University of Skövde, I was elected official for the local worker union, SULF.",
       "highlights": []
     }
   ],
@@ -70,78 +88,28 @@
       "url": "https://bth.se/eng/",
       "area": "Master in Science and Engineering: Game and Software Engineering",
       "studyType": "Higher Education",
-      "startDate": "2013-",
-      "endDate": "2018-",
-      "score": "",
+      "startDate": "2013-09-02",
+      "endDate": "2018-06-03",
       "courses": []
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
     }
   ],
   "publications": [
     {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
-  "skills": [
-    {
-      "name": "",
-      "level": "",
-      "icon": "",
-      "keywords": [
-      ]
+      "name": "Using Artificial Intelligence for Gameplay Testing On Turn-Based Games",
+      "publisher": "Blekinge Institute of Technology",
+      "releaseDate": "2018-07-03",
+      "url": "https://bth.diva-portal.org/smash/record.jsf?pid=diva2%3A1230378",
+      "summary": "My Master's thesis, co-written with Joakim Ståhle-Nilsson. Using Monte-Carlo Tree Search, we attempt to playtest a turn-based game – then in-development at Fall Damage Studio – to identify optimal strategies and bugs at an early stage."
     }
   ],
   "languages": [
     {
-      "language": "",
-      "fluency": "",
-      "icon": ""
-    }
-  ],
-  "interests": [
+      "language": "Swedish",
+      "fluency": "Native Speaker"
+    },
     {
-      "name": "",
-      "icon": "",
-      "keywords": [
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "",
-      "summary": "",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      "language": "English",
+      "fluency": "Fluent"
     }
   ]
 }
