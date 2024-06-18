@@ -20,6 +20,7 @@
             <td>
               {% if item.redirect == blank %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {{ item.excerpt }}
               {% elsif item.redirect contains '://' %}
                 <a class="news-title" href="{{ item.redirect }}" target="_blank">{{ item.title }}</a>
                 <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
@@ -36,6 +37,7 @@
                 </svg>
               {% else %}
                 <a class="news-title" href="{{ item.redirect | relative_url }}">{{ item.title }}</a>
+                {{ item.excerpt }}
               {% endif %}
             </td>
           </tr>

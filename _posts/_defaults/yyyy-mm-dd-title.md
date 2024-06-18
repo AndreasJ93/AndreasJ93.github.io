@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "title goes here"
+tags: []
+categories: []
 excerpt_separator: <!--more-->
 ---
 
