@@ -5,8 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Welcome!
-
----
-
-Infomration goes here
+A simple inline announcement.
