@@ -4,14 +4,14 @@ permalink: /teaching/
 title: Teaching
 description: To be added
 nav: true
-nav_order: 6
+nav_order: 4
 display_categories: [University of Skövde, Malmö University, Blekinge Institute of Technology]
 horizontal: false
 ---
 
 
 <!-- pages/teachings.md -->
-<div class="teachings">
+<div class="projects">
 {% if site.enable_teaching_categories and page.display_categories %}
   <!-- Display categorized teachings -->
   {% for category in page.display_categories %}

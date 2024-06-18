@@ -3,8 +3,6 @@ layout: profiles
 permalink: /people/
 title: People
 description: Here you can see more about me
-nav: true
-nav_order: 7
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
