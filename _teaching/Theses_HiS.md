@@ -12,12 +12,12 @@ During my stay at the University of Skövde I both supervised and examined bache
 
 ## Supervisor
 
-### 2020
+### <u>2020</u>
 <span style="font-size:1.25em"><b>Steering techniques in racing games : A comparison of steering techniques in racing games for creating human AI-behavior </b></span>
 
 **Student(s):** Kanewoff, Jesper \
 **Language:** Swedish \
-**Keywords:** Trovärdig AI, Neurala nätverk, Machine learning, Racingspel, Waypoint \ 
+**Keywords:** Trovärdig AI, Neurala nätverk, Machine learning, Racingspel, Waypoint \
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1449671)
 <details><summary><b>Abstract:</b></summary> En av de viktigaste egenskaper hos en agent är hur den väljer att navigera i en virtuell miljö, därför ämnar den här studien att undersöka mänsklighetsgraden hos tre olika typer av styrtekniker i ett 2D bilspel. Dessa teknikerna är ett waypoint-system, ett neuralt nätverk och en skuggningsteknik. De tre teknikerna utvärderas genom att jämföra hur deras generella beteende skiljer sig från de mänskliga deltagarna och genom ett frågeformulär som deltagarna svarar på. Baserat på den data som samlades in kan man dra slutsatsen att skuggning-tekniken upplevdes mest mänsklig följt av det neurala nätverket. Detta gör det intressant att eventuellt i framtiden testa olika typer av neurala nätverk och se hur mänskligt de kan upplevas.</details> 
 
@@ -32,9 +32,7 @@ During my stay at the University of Skövde I both supervised and examined bache
 <details><summary><b>Abstract:</b></summary> Arbetet undersöker mänskligt beteende hos beteendeträd och LSTM nätverk. Ett spel skapades som testades av personer i en undersökning där deltagarna fick spela tillsammans med vardera agent i slumpmässig ordning för att bedöma agenternas beteende. Resultatet från undersökningen visade att beteendeträdet var den mänskliga varianten enligt deltagarna oavsett ordning som testpersonerna spelade med vardera agent. Problemet med resultatet beror antagligen till störst del på att det inte fanns tillräckligt med tid och bristande CPU kraft för att utveckla LSTM agenten ytterligare. För att förbättra och arbeta vidare med arbetet kan mer tid läggas på att träna LSTM nätverket och finjustera beteendeträdet. För att förbättra testet borde riktig multiplayer funktionalitet implementeras som gör att det går att testa agenterna jämfört med riktiga mänskliga spelare.
 </details>
 
----
-
-### 2021
+### <u>2021</u>
 <span style="font-size:1.25em"><b> Application of a 2D dungeon algorithm in 3D space : How well does TinyKeep’s dungeon algorithm perform in three dimensions? </b></span>
 
 **Student(s):** Birgersson, Emil \
@@ -70,7 +68,7 @@ During my stay at the University of Skövde I both supervised and examined bache
 
 <span style="font-size:1.25em"><b> Procedural generation of race tracks using Voronoi diagrams : Procedurally generated Formula 1 circuits using modified Voronoi diagrams and self-avoiding random walk </b></span>
 
-**Student(s):** Petersson, Filip and WWindhede, Daniel \
+**Student(s):** Petersson, Filip and Windhede, Daniel \
 **Language:** Swedish \
 **Keywords:** Procedurell generering, racerbanor, Voronoi diagram, Delaunay triangulering, self-avoiding walk, random walk \
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1568520)
@@ -88,16 +86,14 @@ During my stay at the University of Skövde I both supervised and examined bache
 <details><summary><b>Abstract:</b></summary> Cybersjuka, vilket är en undertyp till rörelsesjuka uppstår när personer använder sig utav ett Virtual Reality headset. Denna studie undersöker de tre olika rörelsesystemen som spel brukar använda sig utav för att förflytta sig i virtuella världar. De tre rörelsesystemen är teleportering, rälssystemet och kontinuerliga rörelsesystemet. Dessa tre system undersöktes sedan för att se hur stor påverkan de har för den upplevda symptom av cybersjuka hos spelaren. Undersökningen skedde genom ett att en artefakt skapades, vilket gavs ut tillsammans med ett frågeformulär till deltagare. Genom att analysera den insamlade datan kan slutsatsen att teleporteringssystemet orsakar ingeneller extremt lite symptom av cybersjuka dras. Medan rälssystemet orsakar inte alltför stark cybersjuka och att det kontinuerliga rörelsesystemet orsakar starkast symptom av cybersjuka. Dock är det kontinuerliga rörelsesystemet det mest föredragna rörelsesystemet för de flesta användarna.
 </details>
 
----
-
-### 2022
+### <u>2022</u>
 <span style="font-size:1.25em"><b> The apparent intelligence of videogame agents and it’s correlation to predictability and difficulty : The player’s percieved view </b></span>
 
-**Student(s):** Vikberg, Alexander \ 
+**Student(s):** Vikberg, Alexander \
 **Language:** Swedish \
 **Keywords:** Artificiell intelligens, förställd intelligens \
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1672457)
-<details><summary><b>Abstract:</b></summary> Då artificiell intelligens blir mer kapabel introduceras nya möjligheter för utvecklingen av AI i spel (Manuel Cebrian & Iyad Rahwan 2018; Steve Rabin 2017). Dock innebär detta inte att agenter blir mer intelligenta. Istället tar utvecklingen av agenter frekvent an konstgrepp för att framhäva och förställa intelligensen av agenten (Rabin 2017). Det observeras då att teknikerna orsakar modifieringar av agentens egenskaper, exempelvis agentens förutsägbarhet (Chris Butcher & Jamie Griesemer 2002; Jeff Orkin 2015; Rabin 2017). Dessa egenskaper bör balanseras för att garantera att dessa inte negativt påverkar agenten och spelupplevelsen (Robert Valdes 2004; Baylor Wetzel & Kyle Anderson 2017; Mark Johnson 2019). \
+<details><summary><b>Abstract:</b></summary> Då artificiell intelligens blir mer kapabel introduceras nya möjligheter för utvecklingen av AI i spel (Manuel Cebrian & Iyad Rahwan 2018; Steve Rabin 2017). Dock innebär detta inte att agenter blir mer intelligenta. Istället tar utvecklingen av agenter frekvent an konstgrepp för att framhäva och förställa intelligensen av agenten (Rabin 2017). Det observeras då att teknikerna orsakar modifieringar av agentens egenskaper, exempelvis agentens förutsägbarhet (Chris Butcher & Jamie Griesemer 2002; Jeff Orkin 2015; Rabin 2017). Dessa egenskaper bör balanseras för att garantera att dessa inte negativt påverkar agenten och spelupplevelsen (Robert Valdes 2004; Baylor Wetzel & Kyle Anderson 2017; Mark Johnson 2019). <br>
 
 Denna undersökning menade att redogöra hur konstgrepp som påverkar egenskaper som förutsägbarhet och svårighet också påverkar agentens skenbara intelligens. Agenten placerades i en spelprototyp, ett stealth-actionspel. Två olika spelargrupper spelade och besvarade ett frågeformulär. Endast en av spelargrupperna spelade med konstgreppen. Resultaten visade att dialogsystem, i undersökningens kapacitet, uppfattades men garanteras inte bidra till agentens förutsägbarhet. Svårighetsmanipulation observerades däremot ha möjligheten att bidra till intelligensbedömningen. Framtida studier bör mer utförligt undersöka dialogsystem och möjligtvis fler konstgrepp.
 </details>
@@ -110,9 +106,9 @@ Denna undersökning menade att redogöra hur konstgrepp som påverkar egenskaper
 **Language:** Swedish \
 **Keywords:** Gameflow-modellen, spelarglädje, pussel, mobilspel \
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1672381)
-<details><summary><b>Abstract:</b></summary> Detta arbete utfördes i syfte att undersöka hur en modell för spelarglädje kunde användas vid utformningen av ett mobilt pusselspel till Android-telefoner. Arbetet var baserat på Sweetser och Wyeth’s arbete där författarna har använt Gameflow-modellen för att se hur modellen kunde appliceras för realtidstrategispel. \
+<details><summary><b>Abstract:</b></summary> Detta arbete utfördes i syfte att undersöka hur en modell för spelarglädje kunde användas vid utformningen av ett mobilt pusselspel till Android-telefoner. Arbetet var baserat på Sweetser och Wyeth’s arbete där författarna har använt Gameflow-modellen för att se hur modellen kunde appliceras för realtidstrategispel. <br>
 
-En undersökning genomfördes där deltagarna fick spela ett tvådimensionellt pusselspel till Android-telefoner. När spelarna hade spelat färdigt utfördes en intervju där deltagarna fick ge poäng mellan 0 och 5 för varje kriterium inom varje element i GameFlow-modellen. Resultatet av undersökningen visade att Gameflow-modellen kunde användas vid utformningen av mobila pusselspel till Android-telefoner men även spelet styrkor och svagheter utifrån modellens kriterier. \
+En undersökning genomfördes där deltagarna fick spela ett tvådimensionellt pusselspel till Android-telefoner. När spelarna hade spelat färdigt utfördes en intervju där deltagarna fick ge poäng mellan 0 och 5 för varje kriterium inom varje element i GameFlow-modellen. Resultatet av undersökningen visade att Gameflow-modellen kunde användas vid utformningen av mobila pusselspel till Android-telefoner men även spelet styrkor och svagheter utifrån modellens kriterier. <br>
 
 En intressant riktning för vidare studier vore en studie där fler banor hade implementerats där den första banan i gruppen introducerade en mekanik. Sedan skulle resten av banorna i den gruppen använda sig av samma mekanik där spelaren kunde klara av pusselelementen på olika sätt. 
 </details>
@@ -136,20 +132,18 @@ En intressant riktning för vidare studier vore en studie där fler banor hade i
 **Language:** Swedish \
 **Keywords:** Procedurell generering, grottor, algoritmer, jämförelse, procedural content generation \
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1675089)
-<details><summary><b>Abstract:</b></summary> För att underlätta skapandet av spelbanor i spel så används ofta Procedural Content Generation (PCG). Det finns dock en stor mängd PCG-algoritmer med olika tillämpningar. Detta arbete undersöker och jämför tre algoritmer vid skapandet av 2D grottsystem utifrån kriterierna; tidseffektivitet, tillgänglighet och variation. Algoritmerna som jämförs är cellular automata, Perlin noise och Voronoi. Syftet med jämförelsen är att ge en bättre förståelse förde tre algoritmernas för- och nackdelar, med förhoppning om att underlätta valet av PCGal-goritmer i framtiden. \
+<details><summary><b>Abstract:</b></summary> För att underlätta skapandet av spelbanor i spel så används ofta Procedural Content Generation (PCG). Det finns dock en stor mängd PCG-algoritmer med olika tillämpningar. Detta arbete undersöker och jämför tre algoritmer vid skapandet av 2D grottsystem utifrån kriterierna; tidseffektivitet, tillgänglighet och variation. Algoritmerna som jämförs är cellular automata, Perlin noise och Voronoi. Syftet med jämförelsen är att ge en bättre förståelse förde tre algoritmernas för- och nackdelar, med förhoppning om att underlätta valet av PCGal-goritmer i framtiden. <br>
 
-Arbetet implementerades i spelmotorn Unity (2022a) och skrevs i C#. Kriteriet tidseffektivitet testades med hjälp av en tidtagarursklass, tillgänglighet med hjälp av en flood fill algoritm och variation med hjälp av en algoritm från Alwidian, Abu-Mansour och Ali (2012). \
+Arbetet implementerades i spelmotorn Unity (2022a) och skrevs i C#. Kriteriet tidseffektivitet testades med hjälp av en tidtagarursklass, tillgänglighet med hjälp av en flood fill algoritm och variation med hjälp av en algoritm från Alwidian, Abu-Mansour och Ali (2012). <br>
 
 Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och variation (4x4), (8x8). Cellular automata presterade bäst vid kriteriet tidseffektivitet och variation (16x16). Perlin noise presterade varken bra eller dåligt på något test. Sammanfattningsvis presterade Voronoi bäst, därefter Perlin noise och slutligen cellular automata. 
 </details>
 
----
-
-### 2023
+### <u>2023</u>
 <span style="font-size:1.25em"><b> An investigation of Artificial Intelligence in games : AI and its connection to game feel in the game Alien: Isolation </b></span> 
 
 **Student(s):** Palm, Marcus \
-**Language:** Swedish \ 
+**Language:** Swedish \
 **Keywords:** Artificiell intelligens, Game feel, Skräck \
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1750694)
 <details><summary><b>Abstract:</b></summary> I detta arbete utförs en undersökning av spelet Alien: Isolation för att se hur dess artificiella intelligens används för att bidra till inlevelse i spelet och spelkänsla. Alien: Isolation valdes till denna undersökning då det är ett spel vars antagonist styrs av ett avancerat AI-system som tycks lära sig efter spelarens beteende. Spelkänsla är en term inom spelutveckling som handlar om det påverkan som spel kan ha på spelare. För att testa detta kommer tre youtubers Let’s Plays av spelet analysers. Specifika ögonblick har valts från spelet baserat på dess mekaniker och deras vikt i spelkänsla. Dessa ögonblick kommer sedan att sammanställas i en tabell där nivån av skräck de kände under spelandet kommer graderas. Dessa graderingar kommer sedan diskuteras och jämföras med insamlade källor som pratar om hur akademisk forskning och spelindustrin går till väga för att uppnå verklighetstroligt beteende i AI.
@@ -177,9 +171,7 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 <details><summary><b>Abstract:</b></summary> Denna litteraturanalys går igenom åtgärderna för de problem som förekommer vid skapandet av online pvp-spel. Några av de vanliga problem som kan stötas på innefattar fördröjning, paketförlust, fusk, skalbarhet, synkronisering, uppdateringsfrekvens och säkerhet. Dessa problem kan sedan negativt påverka andra aspekter av spelet, inte minst game feel. För att förhindra detta bör specifika åtgärder implementeras. Inom just online pvp-spel kan grunden till nätverkshanteringen skapas med en klient/server-uppsättning som skickar små och snabba datapaket med hjälp av nätverksprotokollet UDP. Ytterligare lösningar som “dumma klienter”, “client-side prediction”, “server reconciliation”, “interpolation”, historik och tidsstämplar i datapaketen kan användas för att förbättra spelupplevelsen. I kombination med varandra skapar dessa åtgärder en stabil nätverksinfrastruktur för ett online pvp-spel. Då vissa av dessa tekniker kan kräva en del prestanda både på klienten och servern kan framtida arbeten kring dessa lösningar fokusera på optimering.
 </details>
 
----
-
-### 2024
+### <u>2024</u>
 <span style="font-size:1.25em"><b> Opportunities for improvement in Dijkstra’s graph search algorithm : A comparative analysis of pathfinding algorithms for a grid-based world </b></span> 
 
 **Student(s):** Esst, Maximilian and Skoglöv, Demian \
@@ -200,11 +192,9 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 <details><summary><b>Abstract:</b></summary> Scrum är ett arbetssätt som implementeras för att främja kommunikation och produktivitet för företaget. I många fall används Scrum inte korrekt hos dataspelsföretag och dessa företag väljer medvetet eller omedvetet att inte implementera några av de viktiga delarna. Scrum tappar då effektivitet och kan i värsta fall bli ett negativt påverkande verktyg. Denna studie menar att undersöka och kartlägga hur Scrum används i spelutvecklingen i Skövde och har därmed behandlat frågeställningen “Vilka är de framträdande utvecklingsriktningarna i användandet av Scrum inom Spelutveckling?”Scrumpraxis kartlades hos de intervjuade företagen. Resultatet för studien är att scrum inte används korrekt i spelindustrin i Skövde och att många av de viktiga delarna förkastas eller görs mer sällan än vad de borde. Ett exempel på detta är sprintåterblick och sprintgranskning som används av väldigt få företag och är en väsentlig del av Scrum. Studien har även identifierat en generell avsaknad av en scrummaster bland de intervjuade företagen.
 </details>
 
----
-
 ## Examinator
 
-### 2022
+### <u>2022</u>
 <span style="font-size:1.25em"><b> Predicting a player’s future actions : An evaluation of an Elman network’s ability to predict a player’s future actions </b></span> 
 
 **Student(s):** Tornell, Christoffer and Jakobsson, Kristoffer \
@@ -225,9 +215,7 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 <details><summary><b>Abstract:</b></summary> Profilering är ett underutforskat område inom spelutveckling trots de höga prestandakraven och därmed optimeringsbehov i moderna spel. Detta arbete ämnar underlätta profileringsarbete genom att spatialt visualisera profileringsdata i form av värmekartor och dessutom visualisera GPU- och CPU-bundenhet. Målet med detta arbete var att avancera profileringsområdet inom spelutveckling, att uppmana vidareutveckling av profileringsverktyg för att dra ner på kostnader och tid som i ställetkan spenderas på implementering av ny funktionalitet. Projektet har bidragit till området automatiserad profilering, genom att ta fram en metod för att underlätta tolkningsaspekten av profileringsarbetet och kan därmed bidra till att göra profilering mer tillgängligt för utvecklare som saknar djupgående kunskap kring mjuk- och hårdvara.
 </details>
 
----
-
-### 2023
+### <u>2023</u>
 <span style="font-size:1.25em"><b> Evaluation of an analysis tool for dependency identification in source code </b></span> 
 
 **Student(s):** Zarske, Annika \
@@ -248,9 +236,7 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 <details><summary><b>Abstract:</b></summary> Inom spelutveckling vill utvecklare gärna använda sig av visuella effekter för sina spel och genom shaderprogram kan en mångfald av visuella effekter skapas. Det som hindrar spelutvecklare från att använda sig utav alla visuella effekter de vill ha med i spelet är prestandan. Alla användare har inte tillgång till den senaste hårdvaran och kan ha minimikrav på prestandan hos ett spel. Spelbranschen går dessutom mer mot mobila spel (ISFE & EGDF 2021, ss. 18-19). Mobiler har begränsade resurser och har inte lika mycket processorkraft för grafik som en dedikerad grafikprocessor kan ge. Syftet med denna studie är att undersöka om det finns en skillnad i prestanda på shaders som implementerats med Unreal Material kontra High-Level Shading Language. Detta gjordes genom en implementation i varje språk av två shadereffekter. Efteråt konstruerades två renderingsintensiva scener där tidsmätningar på varje implementation genomfördes. Resultatet av detta kunde inte visa på någon koppling mellan vilket implementationssätt som användes och skillnad i prestanda. Resultaten av testerna kunde endast peka på en försumbar skillnad i prestanda.
 </details>
 
----
-
-### 2024
+### <u>2024</u>
 <span style="font-size:1.25em"><b> Titel  </b></span> \
 **Student(s):** 
 **Language:** 
