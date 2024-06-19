@@ -13,7 +13,7 @@ During my stay at the University of Skövde I both supervised and examined bache
 ## Supervisor
 
 ### 2020
-<span font-size:5em><b>Steering techniques in racing games : A comparison of steering techniques in racing games for creating human AI-behavior </b></span>
+<span style="font-size:5em"><b>Steering techniques in racing games : A comparison of steering techniques in racing games for creating human AI-behavior </b></span> \
 **Student(s):** Kanewoff, Jesper \
 **Language:** Swedish \
 **Keywords:** Trovärdig AI, Neurala nätverk, Machine learning, Racingspel, Waypoint 
