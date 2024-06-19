@@ -5,7 +5,7 @@ description: A collection of theses I have supervised or examined during my year
 img: assets/img/his_se_rubin.png # Upload an image for the project
 importance: 1
 category: University of Skövde
-related_publications: true
+related_publications: false
 ---
 
 During my stay at the University of Skövde I both supervised and examined bachelor theses. Here is a compiled list of the works I have been involved in. The abstracts for each thesis is hidden to save space. **Note:** The 2024 theses I examined are yet to be published
@@ -201,6 +201,8 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1853366)
 <details><summary><b>Abstract</b></summary> Scrum är ett arbetssätt som implementeras för att främja kommunikation och produktivitet för företaget. I många fall används Scrum inte korrekt hos dataspelsföretag och dessa företag väljer medvetet eller omedvetet att inte implementera några av de viktiga delarna. Scrum tappar då effektivitet och kan i värsta fall bli ett negativt påverkande verktyg. Denna studie menar att undersöka och kartlägga hur Scrum används i spelutvecklingen i Skövde och har därmed behandlat frågeställningen “Vilka är de framträdande utvecklingsriktningarna i användandet av Scrum inom Spelutveckling?”Scrumpraxis kartlades hos de intervjuade företagen. Resultatet för studien är att scrum inte används korrekt i spelindustrin i Skövde och att många av de viktiga delarna förkastas eller görs mer sällan än vad de borde. Ett exempel på detta är sprintåterblick och sprintgranskning som används av väldigt få företag och är en väsentlig del av Scrum. Studien har även identifierat en generell avsaknad av en scrummaster bland de intervjuade företagen.
 </details>
+
+<br>
 
 ## Examinator
 
