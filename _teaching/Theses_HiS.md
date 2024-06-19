@@ -13,7 +13,8 @@ During my stay at the University of Skövde I both supervised and examined bache
 ## Supervisor
 
 ### 2020
-<span style="font-size:1.25em"><b><b>Steering techniques in racing games : A comparison of steering techniques in racing games for creating human AI-behavior </b></span> \
+<span style="font-size:1.25em"><b>Steering techniques in racing games : A comparison of steering techniques in racing games for creating human AI-behavior </b></span>
+
 **Student(s):** Kanewoff, Jesper \
 **Language:** Swedish \
 **Keywords:** Trovärdig AI, Neurala nätverk, Machine learning, Racingspel, Waypoint 
@@ -23,7 +24,8 @@ During my stay at the University of Skövde I both supervised and examined bache
 
 ---
 
-<span style="font-size:1.25em"><b><b> Recreate human behaviour with artificial intelligence in 2D top-down wave shooter game </b></span> \
+<span style="font-size:1.25em"><b> Recreate human behaviour with artificial intelligence in 2D top-down wave shooter game </b></span>
+
 **Student(s):** Bjärehall, Johannes and Hallberg, Johan \
 **Language:** Swedish \
 **Keywords:** AI, Mänskligt AI, Neurala nätverk, Beteendeträd, LSTM, ML-Agents
@@ -34,7 +36,8 @@ During my stay at the University of Skövde I both supervised and examined bache
 ---
 
 ### 2021
-<span style="font-size:1.25em"><b><b> Application of a 2D dungeon algorithm in 3D space : How well does TinyKeep’s dungeon algorithm perform in three dimensions? </b></span> \
+<span style="font-size:1.25em"><b> Application of a 2D dungeon algorithm in 3D space : How well does TinyKeep’s dungeon algorithm perform in three dimensions? </b></span>
+
 **Student(s):** Birgersson, Emil \
 **Language:** Swedish \
 **Keywords:** Procedural content generation, delaunay triangulation, dungeon generation
@@ -44,7 +47,8 @@ During my stay at the University of Skövde I both supervised and examined bache
 
 ---
 
-<span style="font-size:1.25em"><b><b> The impact of different learning algoritms when learning a racing game: A comparison between proximal policy optimization (PPO) and soft actor-critic (SAC) in a racing game </b></span> \
+<span style="font-size:1.25em"><b> The impact of different learning algoritms when learning a racing game: A comparison between proximal policy optimization (PPO) and soft actor-critic (SAC) in a racing game </b></span>
+
 **Student(s):** Gustafsson, Erik \
 **Language:** Swedish \
 **Keywords:** Reinforced machine learning, proximal policy optimization (PPO), soft actor-critic (SAC), Unity, ML-agents tool kit
@@ -54,7 +58,8 @@ During my stay at the University of Skövde I both supervised and examined bache
 
 ---
 
-<span style="font-size:1.25em"><b><b> PCG - Procedural Cave Generation : A comparative study of Cellular Automata, Random Walk and Perlin Noise </b></span> \
+<span style="font-size:1.25em"><b> PCG - Procedural Cave Generation : A comparative study of Cellular Automata, Random Walk and Perlin Noise </b></span>
+
 **Student(s):** Antonijevic, Filip \
 **Language:** Swedish \
 **Keywords:** procedurel generation, caves, cellular automata, random walk, Perlin noise, comparative study
@@ -64,7 +69,8 @@ During my stay at the University of Skövde I both supervised and examined bache
 
 ---
 
-<span style="font-size:1.25em"><b><b> Procedural generation of race tracks using Voronoi diagrams : Procedurally generated Formula 1 circuits using modified Voronoi diagrams and self-avoiding random walk </b></span> \
+<span style="font-size:1.25em"><b> Procedural generation of race tracks using Voronoi diagrams : Procedurally generated Formula 1 circuits using modified Voronoi diagrams and self-avoiding random walk </b></span>
+
 **Student(s):** Petersson, Filip and WWindhede, Daniel \
 **Language:** Swedish \
 **Keywords:** Procedurell generering, racerbanor, Voronoi diagram, Delaunay triangulering, self-avoiding walk, random walk
@@ -74,7 +80,8 @@ During my stay at the University of Skövde I both supervised and examined bache
 
 ---
 
-<span style="font-size:1.25em"><b><b> Motion sickness in virtual reality : How big of an impact the motion system has on it </b></span> \
+<span style="font-size:1.25em"><b> Motion sickness in virtual reality : How big of an impact the motion system has on it </b></span>
+
 **Student(s):** Sollfors, Robin \
 **Language:** Swedish \
 **Keywords:** VR, cybersjuka, rörelsesystem, virtuell verklighet
@@ -85,7 +92,8 @@ During my stay at the University of Skövde I both supervised and examined bache
 ---
 
 ### 2022
-<span style="font-size:1.25em"><b><b> The apparent intelligence of videogame agents and it’s correlation to predictability and difficulty : The player’s percieved view </b></span> \
+<span style="font-size:1.25em"><b> The apparent intelligence of videogame agents and it’s correlation to predictability and difficulty : The player’s percieved view </b></span>
+
 **Student(s):** Vikberg, Alexander \ 
 **Language:** Swedish \
 **Keywords:** Artificiell intelligens, förställd intelligens
@@ -97,8 +105,9 @@ Denna undersökning menade att redogöra hur konstgrepp som påverkar egenskaper
 
 ---
 
-<span style="font-size:1.25em"><b><b> How can a player enjoyment model be used in the design of a mobile puzzle game for Android-phones?
-**Student(s):** Mohamed Hashi, Mohamed-Amin  </b></span> \
+<span style="font-size:1.25em"><b> How can a player enjoyment model be used in the design of a mobile puzzle game for Android-phones?
+**Student(s):** Mohamed Hashi, Mohamed-Amin  </b></span>
+
 **Language:** Swedish \
 **Keywords:** Gameflow-modellen, spelarglädje, pussel, mobilspel
 <details><summary><b>Abstract:</b></summary> Detta arbete utfördes i syfte att undersöka hur en modell för spelarglädje kunde användas vid utformningen av ett mobilt pusselspel till Android-telefoner. Arbetet var baserat på Sweetser och Wyeth’s arbete där författarna har använt Gameflow-modellen för att se hur modellen kunde appliceras för realtidstrategispel. \
@@ -111,8 +120,9 @@ En intressant riktning för vidare studier vore en studie där fler banor hade i
 
 ---
 
-<span style="font-size:1.25em"><b><b> Line art by 3D rendering : How inked line art may be emulated in an interactive, three-dimensional scene
-**Student(s):** Larsson, Benjamin  </b></span> \
+<span style="font-size:1.25em"><b> Line art by 3D rendering : How inked line art may be emulated in an interactive, three-dimensional scene </b></span>
+
+**Student(s):** Larsson, Benjamin 
 **Language:** Swedish \
 **Keywords:** Icke-fotorealistisk rendering, linjeupptäckt, skraffering, datorgrafik
 <details><summary><b>Abstract:</b></summary> En undersökning utfördes av hur väl en interaktiv, 3D-renderad scen kan efterlikna stilen av handtuschade linjeteckningar. Genom att bygga på underlaget av tekniker för linjerendering skapades en artefakt där användaren kan röra sig fritt i en tre-dimensionell miljö. Artefakten utnyttjade linjeupptäckt i skärmrymd, baserad på djup och normaler, tillsammans med tonal art maps för skuggning. Resultatet utvärderades genom en kvalitativ enkätstudie med nio deltagare. Respondenterna fick bedöma hur väl artefakten förmedlade stilen, hur oskiljbar den var från en äkta teckning och hur väl stilen upprätthölls under varierande betraktningsvinklar och -avstånd. I allmänhet upplevdes den förmedla stilen väl, men inte så pass väl att den kunde misstas för handtecknad, i synnerhet inte när den betraktades från vissa specifika vinklar och avstånd. Vissa av problemen kan förklaras med brister i implementationen som redan lösts i tidigare forskning. Framtida arbete bör implementera dessa lösningar samt med fördel jämföra olika möjliga tekniker med varandra. 
@@ -121,8 +131,9 @@ En intressant riktning för vidare studier vore en studie där fler banor hade i
 
 ---
 
-<span style="font-size:1.25em"><b><b> Procedural cavegeneration in computergames : A comparison between algorithms
-**Student(s):** Eriksson, Carl  </b></span> \
+<span style="font-size:1.25em"><b> Procedural cavegeneration in computergames : A comparison between algorithms</b></span>
+
+**Student(s):** Eriksson, Carl  
 **Language:** Swedish \
 **Keywords:** Procedurell generering, grottor, algoritmer, jämförelse, procedural content generation
 <details><summary><b>Abstract:</b></summary> För att underlätta skapandet av spelbanor i spel så används ofta Procedural Content Generation (PCG). Det finns dock en stor mängd PCG-algoritmer med olika tillämpningar. Detta arbete undersöker och jämför tre algoritmer vid skapandet av 2D grottsystem utifrån kriterierna; tidseffektivitet, tillgänglighet och variation. Algoritmerna som jämförs är cellular automata, Perlin noise och Voronoi. Syftet med jämförelsen är att ge en bättre förståelse förde tre algoritmernas för- och nackdelar, med förhoppning om att underlätta valet av PCGal-goritmer i framtiden. \
@@ -136,7 +147,8 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 ---
 
 ### 2023
-<span style="font-size:1.25em"><b><b> An investigation of Artificial Intelligence in games : AI and its connection to game feel in the game Alien: Isolation </b></span> \
+<span style="font-size:1.25em"><b> An investigation of Artificial Intelligence in games : AI and its connection to game feel in the game Alien: Isolation </b></span> 
+
 **Student(s):** Palm, Marcus \
 **Language:** Swedish \ 
 **Keywords:** Artificiell intelligens, Game feel, Skräck
@@ -146,7 +158,8 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 
 ---
 
-<span style="font-size:1.25em"><b><b> Trends in dialogue tools for game development: A meta review </b></span> \
+<span style="font-size:1.25em"><b> Trends in dialogue tools for game development: A meta review </b></span> 
+
 **Student(s):** Zanghellini, Carlo \
 **Language:** English \
 **Keywords:** Game, Tools, Dialog, Evaluation
@@ -156,7 +169,8 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 
 ---
 
-<span style="font-size:1.25em"><b><b> Common problems and solutions for online games </b></span> \
+<span style="font-size:1.25em"><b> Common problems and solutions for online games </b></span> 
+
 **Student(s):** Johansson, Carl-Vilhelm and Olsson, Melvin \
 **Language:** Swedish \
 **Keywords:** nätverkshantering, pvp-spel, onlinespel, klient, server
@@ -167,7 +181,8 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 ---
 
 ### 2024
-<span style="font-size:1.25em"><b><b> Opportunities for improvement in Dijkstra’s graph search algorithm : A comparative analysis of pathfinding algorithms for a grid-based world </b></span> \
+<span style="font-size:1.25em"><b> Opportunities for improvement in Dijkstra’s graph search algorithm : A comparative analysis of pathfinding algorithms for a grid-based world </b></span> 
+
 **Student(s):** Esst, Maximilian and Skoglöv, Demian \
 **Language:** Swedish \
 **Keywords:** Grafsökningsalgoritmer, Dijkstra, A*, Dubbelriktad algoritm, Jump point search
@@ -177,7 +192,8 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 
 ---
 
-<span style="font-size:1.25em"><b><b> Scrum in game development: A Mapping of Scrum Methodology </b></span> \
+<span style="font-size:1.25em"><b> Scrum in game development: A Mapping of Scrum Methodology </b></span> 
+
 **Student(s):** Sandström, Casper and Eriksson, Sebastian \
 **Language:** Swedish \
 **Keywords:** Game development, Scrum, Agile development, Semi structured interview
@@ -190,7 +206,8 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 ## Examinator
 
 ### 2022
-<span style="font-size:1.25em"><b><b> Predicting a player’s future actions : An evaluation of an Elman network’s ability to predict a player’s future actions </b></span> \
+<span style="font-size:1.25em"><b> Predicting a player’s future actions : An evaluation of an Elman network’s ability to predict a player’s future actions </b></span> 
+
 **Student(s):** Tornell, Christoffer and Jakobsson, Kristoffer \
 **Language:** Swedish \
 **Keywords:** Maskininlärning, artificiella neurala nätverk, Elmannätverk, förutsägning, noggrannhet, tidseffektivitet
@@ -200,7 +217,8 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 
 ---
 
-<span style="font-size:1.25em"><b><b> Spatial performance profiling in games : Localisation of performance problems in game levels </b></span> \
+<span style="font-size:1.25em"><b> Spatial performance profiling in games : Localisation of performance problems in game levels </b></span> 
+
 **Student(s):** Chanane, Karim \
 **Language:** Swedish \
 **Keywords:** Prestanda, profilering, visualisering, CPU/GPU-bundenhet, värmekarta, prestandaproblem
@@ -211,7 +229,8 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 ---
 
 ### 2023
-<span style="font-size:1.25em"><b><b> Evaluation of an analysis tool for dependency identification in source code </b></span> \
+<span style="font-size:1.25em"><b> Evaluation of an analysis tool for dependency identification in source code </b></span> 
+
 **Student(s):** Zarske, Annika \
 **Language:** Swedish \
 **Keywords:** Källkodsanalyseringsverktyg, Beroenden, Beroendeanalys
@@ -221,7 +240,8 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 
 ---
 
-<span style="font-size:1.25em"><b><b> Visual programming and shaderperformance: A comparison between shaders made in Unreal Material and HLSL </b></span> \
+<span style="font-size:1.25em"><b> Visual programming and shaderperformance: A comparison between shaders made in Unreal Material and HLSL </b></span>
+
 **Student(s):** Olsson, William \
 **Language:** Swedish \
 **Keywords:** Shaders, Unreal Material, Material Blueprint, Prestanda, HLSL, High-Level Shading Language
@@ -232,7 +252,7 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 ---
 
 ### 2024
-<span style="font-size:1.25em"><b><b> Titel  </b></span> \
+<span style="font-size:1.25em"><b> Titel  </b></span> \
 **Student(s):** 
 **Language:** 
 **Keywords:** 
