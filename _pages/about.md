@@ -18,5 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Welcome!**
-Here, I aim to keep a tab on the research I conduct at [Malmö University](https://mau.se) as a PhD student, starting the 1<sup>st</sup> of September, 2024. This site is to be updated regularly. [More info to come]. For more information, read the information under [Even More About Me](/EvenMore/).
+##**Welcome!**
+
+Here, I aim to keep a tab on the research I conduct at [Malmö University](https://mau.se) as a PhD student, starting the 1<sup>st</sup> of September, 2024. This site is to be updated regularly. [More info to come]. 
