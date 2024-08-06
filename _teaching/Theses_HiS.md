@@ -107,8 +107,9 @@ Denna undersökning menade att redogöra hur konstgrepp som påverkar egenskaper
 ---
 
 <span style="font-size:1.25em"><b> How can a player enjoyment model be used in the design of a mobile puzzle game for Android-phones?
-**Student(s):** Mohamed Hashi, Mohamed-Amin  </b></span>
+ </b></span>
 
+**Student(s):** Mohamed Hashi, Mohamed-Amin \
 **Language:** Swedish \
 **Keywords:** Gameflow-modellen, spelarglädje, pussel, mobilspel \
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1672381)
@@ -123,7 +124,7 @@ En intressant riktning för vidare studier vore en studie där fler banor hade i
 
 <span style="font-size:1.25em"><b> Line art by 3D rendering : How inked line art may be emulated in an interactive, three-dimensional scene </b></span>
 
-**Student(s):** Larsson, Benjamin 
+**Student(s):** Larsson, Benjamin \
 **Language:** Swedish \
 **Keywords:** Icke-fotorealistisk rendering, linjeupptäckt, skraffering, datorgrafik \
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1672386)
@@ -256,6 +257,7 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 
 ### <u>2024</u>
 <span style="font-size:1.25em"><b> Halvtoning för realtidsrendering i dataspelsutveckling: En litteraturundersökning av forskning kring dithering-algoritmer </b></span> \
+
 **Student(s):** Engström, Erik \
 **Language:** Swedish \
 **Keywords:** Halvtoning, dithering, rendering, stiliserad rendering, realtid, GPU \
@@ -266,6 +268,7 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 ---
 
 <span style="font-size:1.25em"><b> Tillgänglighet inom spel: En utvärdering av tillgänglighet i spel släppta år 2023  </b></span> \
+
 **Student(s):** Carlberg, Jonas and Lindqvist, Amanda \
 **Language:** Swedish \
 **Keywords:** Tillgänglighet, digitala spel, inställningar, funktionsnedsättningar, design \
@@ -276,6 +279,7 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 ---
 
 <span style="font-size:1.25em"><b> Formell analys av rörelsefunktionen i Marvel’s Spider-Man 2: En undersökning av rörelsesystemet och spelkänsla i Marvel’s Spider-Man 2 </b></span> \
+
 **Student(s):** Bourelius, Theodor and Persson, Albin Patrik \
 **Language:** Swedish \
 **Keywords:** Spelkänsla, rörelsesystem, spelanalys, formell analys \
@@ -288,6 +292,7 @@ Den formella analysen producerade kvalitativa data som användes for att besvara
 ---
 
 <span style="font-size:1.25em"><b> Navier-Stokes-baserad eld i Unity: Prestanda hos tvådimensionell eldsimulering i Unity  </b></span> \
+
 **Student(s):** Andersson, Anton and Carlsson, Joel \
 **Language:** Swedish \
 **Keywords:** Vätskesimulering, Navier-Stokes, eld, prestanda, Unity, screen-space \
