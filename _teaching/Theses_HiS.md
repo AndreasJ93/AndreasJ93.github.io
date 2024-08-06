@@ -258,33 +258,39 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 <span style="font-size:1.25em"><b> Halvtoning för realtidsrendering i dataspelsutveckling: En litteraturundersökning av forskning kring dithering-algoritmer </b></span> \
 **Student(s):** Engström, Erik \
 **Language:** Swedish \
-**Keywords:** Halvtoning, dithering, rendering, stiliserad rendering, realtid, GPU
+**Keywords:** Halvtoning, dithering, rendering, stiliserad rendering, realtid, GPU \
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1875412)
 <details><summary><b>Abstract</b></summary> Det här examensarbetet utforskar användningen av olika halvtoningstekniker, känt som dithering, i realtidsrendering för datorspelsutveckling. Halvtoning är en metod för att skapa illusionen av flera färger i bilder med begränsat färgdjup genom att använda mönster av punkter. Vad som tidigare var en lösning på ett optimeringsproblem i äldre datorer har i modern användning blivit ett stilistiskt val. Med hjälp av en litteraturundersökning fyller studien ett kunskapsgap kring halvtoning som estetiskt verktyg och diskuterar dess tillämplighet i realtidsgrafik för moderna datorspel. En kronologisk genomgång presenteras av kända algoritmer där varje algoritm blir betygsatt efter dess egenskaper. Analysen fokuserar på algoritmernas effektivitet, bildkvalitet, sammanhållning mellan frames, möjligheten att ändra parametrar, och implementation på modern hårdvara, särskilt GPUer. En diskussion förs kring etiska och samhälleliga aspekter och algoritmernas potential för framtida forskning.
 </details>
 
+---
+
 <span style="font-size:1.25em"><b> Tillgänglighet inom spel: En utvärdering av tillgänglighet i spel släppta år 2023  </b></span> \
-**Student(s):** Carlberg, Jonas and Lindqvist, Amanda
-**Language:** Swedish
-**Keywords:** Tillgänglighet, digitala spel, inställningar, funktionsnedsättningar, design
+**Student(s):** Carlberg, Jonas and Lindqvist, Amanda \
+**Language:** Swedish \
+**Keywords:** Tillgänglighet, digitala spel, inställningar, funktionsnedsättningar, design \
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1875405)
 <details><summary><b>Abstract</b></summary> 20 spel släppta året 2023 utvärderades med syftet att uppdatera spelindustrins aktuella situation angående tillgänglighetsdesign jämfört med året 2019. Tillgänglighet inom spel innebär att alla kan ta del av samma upplevelse. De spel som utvärderades valdes från en lista över högst betygsatta av kritiker, spel som var nominerade till The Game Awards (2024) 2023 och bästsäljande spel från år 2023. Varje spel spelades i en timme och utvärderingen observerade de olika tillgänglighetsfunktioner som spelet erbjuder. Resultatet visade både innovationer och brister inom spelen. Positivt var att alla spel erbjöd något, men bristerna var mest synliga i de spel som hade sitt ursprung i Asien. Framtida arbeten skulle både utvärdera ett större antal spel och fokusera på hur väl tillgänglighetsfunktionerna är implementerade.
 </details>
 
+---
+
 <span style="font-size:1.25em"><b> Formell analys av rörelsefunktionen i Marvel’s Spider-Man 2: En undersökning av rörelsesystemet och spelkänsla i Marvel’s Spider-Man 2 </b></span> \
-**Student(s):** Bourelius, Theodor and Persson, Albin Patrik
-**Language:** Swedish
-**Keywords:** Spelkänsla, rörelsesystem, spelanalys, formell analys
+**Student(s):** Bourelius, Theodor and Persson, Albin Patrik \
+**Language:** Swedish \
+**Keywords:** Spelkänsla, rörelsesystem, spelanalys, formell analys \
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1875378)
 <details><summary><b>Abstract</b></summary> I denna undersökning analyserades rörelsefunktionen i Marvel's Spider-Man 2. Bakgrundskapitlet beskriver de 31 olika element av spelkänsla samt vad begreppen system, funktion och mekanik betyder. Problemformuleringen presenterar metoden for formell analys. I problemformuleringen presenteras även frågeställningen, vilket lyder som följande: Hur använder Marvel's Spider-Man 2 olika element av spelkänsla inom spelets rörelsesystem och hur är detta rörelsesystem uppbyggt?<br>
 
 Den formella analysen producerade kvalitativa data som användes for att besvara hur rörelsesystemet är uppbyggt, spelets primitiver och hur element av spelkänsla ar tillämpat i rörelsesystemet. Resultatet visade att spelet använder majoriteten av elementen av spelkänsla och att rörelsesystemet har en hög grad framväxande gameplay med mycket virtuell skicklighet. Ett potentiellt framtida arbete kan vara att undersöka fler spel genom samma metod for att se likheter och skillnader i spelens rörelsefunktioner.
 </details>
 
+---
+
 <span style="font-size:1.25em"><b> Navier-Stokes-baserad eld i Unity: Prestanda hos tvådimensionell eldsimulering i Unity  </b></span> \
-**Student(s):** Andersson, Anton and Carlsson, Joel
-**Language:** Swedish
-**Keywords:** Vätskesimulering, Navier-Stokes, eld, prestanda, Unity, screen-space 
+**Student(s):** Andersson, Anton and Carlsson, Joel \
+**Language:** Swedish \
+**Keywords:** Vätskesimulering, Navier-Stokes, eld, prestanda, Unity, screen-space \
 **Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1875372)
 <details><summary><b>Abstract</b></summary> I det här arbetet undersöks prestandapåverkan från en tvådimensionell Eulersk eldsimulering i screen-space i spelmotorn Unity. I simuleringen imiteras rörelser i den tredje dimensionen genom en uppskalning av tryckgradienten. Därefter utvärderas den prestandamässiga lämpligheten för metoden vid eventuell användning i datorspel. En artefakt utvecklades för att kunna utforma ett experiment där genomsnittlig beräkningstid för simulering av en bildruta mäts på GPU:n. <br>
 
@@ -292,6 +298,5 @@ Studien visar att det finns en avsevärd negativ prestandapåverkan, men att den
 
 Vidare forskning föreslås där undersökningar görs på de visuella och estetiska implikationerna av metoden där fokus ligger på att redogöra för visuella artefakter beroende på kontexten för eldsimuleringen.
 </details>
-
 
 ---
