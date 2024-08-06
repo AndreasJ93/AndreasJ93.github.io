@@ -256,7 +256,7 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 <br>
 
 ### <u>2024</u>
-<span style="font-size:1.25em"><b> Halvtoning för realtidsrendering i dataspelsutveckling: En litteraturundersökning av forskning kring dithering-algoritmer </b></span> \
+<span style="font-size:1.25em"><b> Halvtoning för realtidsrendering i dataspelsutveckling: En litteraturundersökning av forskning kring dithering-algoritmer </b></span> 
 
 **Student(s):** Engström, Erik \
 **Language:** Swedish \
@@ -267,7 +267,7 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 
 ---
 
-<span style="font-size:1.25em"><b> Tillgänglighet inom spel: En utvärdering av tillgänglighet i spel släppta år 2023  </b></span> \
+<span style="font-size:1.25em"><b> Tillgänglighet inom spel: En utvärdering av tillgänglighet i spel släppta år 2023  </b></span> 
 
 **Student(s):** Carlberg, Jonas and Lindqvist, Amanda \
 **Language:** Swedish \
@@ -278,7 +278,7 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 
 ---
 
-<span style="font-size:1.25em"><b> Formell analys av rörelsefunktionen i Marvel’s Spider-Man 2: En undersökning av rörelsesystemet och spelkänsla i Marvel’s Spider-Man 2 </b></span> \
+<span style="font-size:1.25em"><b> Formell analys av rörelsefunktionen i Marvel’s Spider-Man 2: En undersökning av rörelsesystemet och spelkänsla i Marvel’s Spider-Man 2 </b></span> 
 
 **Student(s):** Bourelius, Theodor and Persson, Albin Patrik \
 **Language:** Swedish \
@@ -291,7 +291,7 @@ Den formella analysen producerade kvalitativa data som användes for att besvara
 
 ---
 
-<span style="font-size:1.25em"><b> Navier-Stokes-baserad eld i Unity: Prestanda hos tvådimensionell eldsimulering i Unity  </b></span> \
+<span style="font-size:1.25em"><b> Navier-Stokes-baserad eld i Unity: Prestanda hos tvådimensionell eldsimulering i Unity  </b></span> 
 
 **Student(s):** Andersson, Anton and Carlsson, Joel \
 **Language:** Swedish \
