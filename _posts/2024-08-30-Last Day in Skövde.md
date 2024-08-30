@@ -28,7 +28,29 @@ This was at the beginning of the Covid-19 pandemic and I realized that, come aut
 For assignments I kept the original course assignment as they were – five short group projects and one bigger individual work. The shorter group projects were divided into real-world and simulation assignments. These were to be presented as a video for the real-world assignments or as an executable for the simulation ones. These were shown during a seminar and the students were encouraged to discuss each other's solutions. Common errors were compiled and presented as extra material for the student group. The indidvidual work ran alongside these group works. Here, the students chose a physic phenomena to simulate and write a report about. To support the students in the report writing, a necessarity due to the lack of training through the programe, a writing guide was compiled and given to the students. 
 
 ## Game Projects
+> Working together is hard, even if everyone speaks the same language. Working together in a transdisciplinary project? Well, you got a lot to learn, kid.
 
+During my first year at Skövde, one of my colleagues left for a job within QA at Paradox Interactive. Being relatively free with a lot of hours to find work for, I was thrown into the world of Game Project courses as course responsible together with another colleague. While Skövde have had game project courses since the programs started, this was an entirely new iteration of courses. More importantly, there were now three of them. As I worked with my colleague to understand this course, I also realized that the following two courses were not even in development yet. As such, I proposed to change that and took a hollistic approach to creating the courses Game Project 2 and Game Project 3. At the same time, my colleague and I changed a lot of the core in Game Project 1 based on our own and students' reflections.
+
+This work was very rewarding, but also very draining. It started with gathering information, allowing me as an outsider to finally get a glimpse of not only the history of game development that exists in Skövde, but also interviewing and listen in to staff at the department and former students. I conducted interviews, tried to understand how my colleagues saw these courses – whether they had worked in them or not was irrelevant. I listened to the professionals from the industry around us, and read through research regarding game project courses around the world, transdiciplinary courses around the world, as well as game development reports and books. With all this in mind, I started compiling rough drafts for the two courses, using two colleagues for discussions, and presented it for the programme co-ordinators. After taking their responses and compiled it, tweaking the courses, I presented it for the department before they were adopted.
+
+I knew that these courses would not be entirely what students, or colleagues, expected. My aim was to give students the tools to succeed in the industry, to differentiate themselves from the students that had passed a higher vocational education programme. What I got was a... reputation. Below, I present the courses as they were. Please note that they have changed since, as other colleagues took over during the autumn of 2023.
+
+### Game Project 1
+> **Goal:** The goal of Game Project 1 was to introduce students not only to game development, but to each others' disciplines – to create an understanding of the context they worked within.
+
+
+
+### Game Project 2
+> **Goal:** The goal of Game Project 2 was to make the students, who now were halfway through their education, understand how the work they conducted as part of their disciplinary work affected other disciplines – as well as understand how other disciplines work affected them.
+
+### Game Project 3
+> **Goal:** The goal of Game Project 3 was for each student to shine. As the last course, it was meant to faciliate showcasing of each students' ability and prowess within their field – allowing them to hone in on a single component they had created as part of the game they had developed within the group.
+
+### Covid-19
+
+
+### Students' Expectations
 
 
 
