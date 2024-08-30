@@ -8,7 +8,7 @@ middle_name:
 last_name: Jonasson
 email: Andreas.Jonasson1993@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  This description is yet to be filled in.
+  I'm a PhD student at Malmö University looking into automatic Game Testing and Quality Assurance. On this blog, I document my research journey.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -19,7 +19,7 @@ icon: # the emoji used as the favicon (alternatively, provide image name in /ass
 url: https://AndreasJ93.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: /contact # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
@@ -158,7 +158,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -619,7 +619,6 @@ jsonresume:
   - education
   - publications
   - projects
-  - volunteer
   - awards
   - certificates
   - skills
