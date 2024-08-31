@@ -16,7 +16,7 @@ The first of January 2020, mere months before the Covid-19 pandemic hit Sweden, 
 ---
 
 # Courses
-Over the years, I have had the good fortune to work with multiple courses at the university. This work has ranged from taking over courses that has been running smoothly for years to create completely new courses. 
+Over the years, I have had the good fortune to work with multiple courses at the university. This work has ranged from taking over courses that has been running smoothly for years to create completely new courses.
 
 ## Game Physics
 > If the students understands why the physics part of the game engine is hard to get right, then they understand the course.
@@ -34,7 +34,7 @@ During my first year at Skövde, one of my colleagues left for a job within QA a
 
 This work was very rewarding, but also very draining. It started with gathering information, allowing me as an outsider to finally get a glimpse of not only the history of game development that exists in Skövde, but also interviewing and listen in to staff at the department and former students. I conducted interviews, tried to understand how my colleagues saw these courses – whether they had worked in them or not was irrelevant. I listened to the professionals from the industry around us, and read through research regarding game project courses around the world, transdiciplinary courses around the world, as well as game development reports and books. With all this in mind, I started compiling rough drafts for the two courses, using two colleagues for discussions, and presented it for the programme co-ordinators. After taking their responses and compiled it, tweaking the courses, I presented it for the department before they were adopted.
 
-I knew that these courses would not be entirely what students, or colleagues, expected. My aim was to give students the tools to succeed in the industry, to differentiate themselves from the students that had passed a higher vocational education programme. What I got was a... reputation. Below, I present the courses as they were. Please note that they have changed since, as other colleagues took over during the autumn of 2023.
+I knew that these courses would not be entirely what students, or colleagues, expected. My aim was to give students the tools to succeed in the industry, to differentiate themselves from the students that had passed a higher vocational education programme. What I got was a... reputation. Below, I present the courses as they were. Please note that they have changed since, as other colleagues took over during the autumn of 2023. Please note that this is a far cry from an exhaustive presentation of the courses, the challenges they faced, and how the students reacted – I hope to get around to this one day and present each of the Game Project courses in higher detail.
 
 ### Game Project 1
 **Goal:** The goal of Game Project 1 was to introduce students not only to game development, but to each others' disciplines – to create an understanding of the context they worked within.
@@ -110,11 +110,15 @@ This approach, however, was not welcomed by all of the students. Some students, 
 
 What I do know, however, is that I – by standing firmly rooted in the decision to make Game Project 2 a on-campus course – quickly became a teacher many students did not agree with. This, in turn, unfortunately made it so that the students that felt this way could never focus on the courses I held in – instead focusing on their own irritation, or hatred, of me.
 
-### Delayed Course Budget
-
 
 ### Students' Expectations
+The students expected something completely different for Game Project 2 and 3, that is a fact I carry with me. In my harshest of moments, I would say that they expected to be let loose and allowed to do anything they wanted, without any expectations placed upon them. Sitting down and reflecting alone, I know this is a far cry from what the students wanted. 
 
+The students I have had the good fortune to have in the game project courses – whateve belief they had about me – wanted to showcase their own prowess. They wished to prove, not only for themselves but for future employers as well, that they could create games – regardless of their discipline. They wanted to work together with a tight-knitted team to create something new – many of them aspiring to be the next hit out of Skövde. Most importantly, they wanted the courses to give them time to create a game with friends – without a ton of obligations and constraints.
+
+I undertand them – something I know many of them would not believe if I said. The courses were designed with that in mind, especially Game Project 3 – a course with a lot of problems I have not dwelled on here. However, one thing that almost hurt me to say is that many of my students – brilliant as they were – walked into their studies with the idea that what they signed up for was a higher vocational education programme and not a higher education programme. They failed to realize what is expected of a bachelor and what would make their knowledge unique in the industry, how they differentiated from a student of a higher vocational education programme. As such, they were unable to see how the structure of the courses alligned with what they wanted – what they needed to learn.
+
+I do not blame them for this.
 
 ---
 
