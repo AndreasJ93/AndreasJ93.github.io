@@ -86,12 +86,35 @@ At the end of the course we held an open expo, wherein the students presented th
 
 
 ### Covid-19
+One thing that really made the Game Project courses difficult to not only handle, but also to get right, was the Covid-19 pandemic. This was especially noticeable for Game Project 1 and 2 during their first run – much to the dismay of the students. It forced us to change how things were conducted at the last minute, forced us to fix safety measures to prevent an outbreak amongst the students, put up rules and regulations for the courses, and – most importantly – make sure that students could retake assignments on multiple occassions and/or in differetn ways so they did not have to be physically present if they were sick. However, this could only be done to a certain degree. While Game Project 1 was able to run mostly smoothly during these challenging circumstances, Game Project 2 was an entire different story.
+
+The first time Game Project 2 was to be conducted, January of 2022, preparations were running late. The course site was unfinished, mainly missing information regarding the pre-production phase of the course due to teachers having been assigned to the course late, and almost none of the teachers were aware of the scheduel, the idea behind the seminars, or the idea behind the pedagogy. Worst of all was the fact that one week before the course started  the pandemic took a hold of Sweden again. With this, the vice-chancellor put the university in what was known as the "hybrid" mode, limiting what we were allowed to do. Some of these limitations were:
+* If a course had more than 50 students, it was to be conducted as a distance learning course
+* Everything scheduled for on-campus teaching had to be conducted in a classroom for twice as many students as there were students present
+  * (Except for computer labs, an excempt born out of neccisity)
+* Sanitation stations, containing hand sanitizer and mouth guards, were to be present in each classroom and in the hallway
+
+For a course with over 140 students – a course that was heavily dependent on the students working together in groups of ten with physical material for the first week – this was a challenge to handle. In the end, and thanks to the hard work of our scheduling department, the course was re-scheduled and able to be conducted on-campus – with the blessing of both the vice-chancellor and the one responsible for infection tracking at the university – by:
+* Booking three classrooms fitting 100+ students each for the lectures
+  * Streaming the lecture from one classroom to the other two
+  * Due to examinations being done physically on-campus in close proximity to the lectures, often as part as a divided lecture, these Zoom-links were not shared with the class
+* Booking 14 classrooms fitting 20+ students each for the prototyping phase
+  * And making sure these were fitted with a sanitation station each
+* Making sure that only one from each group could get prototyping material at a time
+* Making sure the seminars were conducted in classrooms twice as big as the student groups
+* Making sure the tests conducted in the course, both the testing of the physical prototypes and the digital products, were done in compliance with the regulations from the Public Health Agency of Sweden
+* Making sure that examinations that were possible to do with a distance alternative were moved to Zoom
+* Makign sure that each and every examination had extra sessions, or alternative examination forms, in place if a student had put themselves in self-quarantine after either a confirmed or suspected Covid-19 infection
+
+This approach, however, was not welcomed by all of the students. Some students, afraid of missing out, elected to not adhere to the regulations put in place – risking spreading Covid-19 through the class – over asking their group members to share notes. Many students failed to understand that they had extra examination possibilities – again electing to not adhere to the regulations. Or, rather, that was the view a few students who voiced their concerns with this – some going as far as accuse us of spreading the disease – shared with me as course responsible. As we never had any outbreak, and in fact very few students were sick at all during this time, I believe that fear was the most important factor to this reaction. Whether this is true or not, I will most likely never know.
+
+What I do know, however, is that I – by standing firmly rooted in the decision to make Game Project 2 a on-campus course – quickly became a teacher many students did not agree with. This, in turn, unfortunately made it so that the students that felt this way could never focus on the courses I held in – instead focusing on their own irritation, or hatred, of me.
+
+### Delayed Course Budget
 
 
 ### Students' Expectations
 
-
-### Lack of Support
 
 ---
 
