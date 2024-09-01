@@ -15,6 +15,9 @@ The first of January 2020, mere months before the Covid-19 pandemic hit Sweden, 
 
 ---
 
+* TOC
+{:toc}
+
 # Courses
 Over the years, I have had the good fortune to work with multiple courses at the university. This work has ranged from taking over courses that has been running smoothly for years to create completely new courses.
 
@@ -123,7 +126,9 @@ I do not blame them for this; after all, I believe that the education system fai
 ---
 
 # Theses
-During my time at the University of Skövde, I supervised and examined quite a few theses (see [here](/teaching/Theses_HiS/) for a list). 
+During my time at the University of Skövde, I supervised and examined quite a few theses. Over the years, I have met many different kind of students and works. I have learned a lot from both supervising and examining these works – and even if I might have a higher standard than expected at times, I believe that most students have enjoyed the time as well. There's something special of seeing the student's academic prowess bloom like you do as a supervisor and examinator, how you must follow their thought process on the paper, and can guide them towards clarity and brewity with their texts. At times, I have been harsh with my comments or feedback – but at the end of the day, all I want is for my students to finish their studies having learnt what they need to learn.
+
+For a list of all theses I supervised and examined during my time at the University of Skövde, [see this page](/teaching/Theses_HiS).
 
 ---
 
