@@ -2,7 +2,7 @@
 layout: page
 title: Theses
 description: A collection of theses I have supervised or examined during my years at the University of Skövde
-img: assets/img/his_se_rubin.png # Upload an image for the project
+img: assets/img/HiS_thesis.png # Upload an image for the project
 importance: 1
 category: University of Skövde
 related_publications: false
