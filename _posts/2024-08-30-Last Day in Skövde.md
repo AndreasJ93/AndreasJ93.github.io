@@ -65,7 +65,7 @@ Of course, there is a lot more to it than this. As a part of a later course I to
 ---
 
 # Union Commitment
-During my time at Skövde, I also had some commitment for [SULF](sulf.se/en/), The Swedish Assosication of University Teachers and Researchers. I was a union representative for the localunion for two years. 
+During my time at Skövde, I also had some commitment for [SULF](https://sulf.se/en/), The Swedish Assosication of University Teachers and Researchers. I was a union representative for the localunion for two years. 
 
 ---
 
