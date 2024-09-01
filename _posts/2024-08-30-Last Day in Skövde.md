@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Last day at Skövde"
-tags: [Work, University of Skövde, Teaching]
+tags: [Work, University of Skövde, Teaching, Reflections]
 categories: [University of Skövde]
 excerpt_separator: <!--more-->
 ---
@@ -118,11 +118,12 @@ The students I have had the good fortune to have in the game project courses –
 
 I undertand them – something I know many of them would not believe if I said. The courses were designed with that in mind, especially Game Project 3 – a course with a lot of problems I have not dwelled on here. However, one thing that almost hurt me to say is that many of my students – brilliant as they were – walked into their studies with the idea that what they signed up for was a higher vocational education programme and not a higher education programme. They failed to realize what is expected of a bachelor and what would make their knowledge unique in the industry, how they differentiated from a student of a higher vocational education programme. As such, they were unable to see how the structure of the courses alligned with what they wanted – what they needed to learn.
 
-I do not blame them for this.
+I do not blame them for this; after all, I believe that the education system fails to prepare students for what's coming in later steps of their education, and most students were probably unaware of what it meant to study at a higher education programme.
 
 ---
 
 # Theses
+During my time at the University of Skövde, I supervised and examined quite a few theses (see [here](/teaching/Theses_HiS/) for a list). 
 
 ---
 
