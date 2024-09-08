@@ -14,7 +14,7 @@ The week started as per usual with a new job environment: Orientation. As this i
 
 As the week progressed I had a long -- and uplifting -- meeting with my three supervisors; José María Font Fernández as main supervisor and Alberto Alvarez Uribe and Raquel Robinson as co-supervisors. I got an introduction to the project [Game Tech Academy](https://gametechacademy.dk/) that I will be a part of, information regarding what is expected of me during these few first months, and a few tasks to work with until our next meeting. This was completed in the afternoon with a meeting by the faculty, where I meet with the Deputy Head of Department, who is responsible for research and research education, and discussed more formal requirements of the PhD. All in all a very informative day with a lot of information.
 
-Wednesday I had a meeting with the Head of the Department regarding my institute hours; that is to say, the teaching work expected from me. I start tomorrow, Monday 9<sup>th<sup> of September, with labs in the C# course given to game programming students.
+Wednesday I had a meeting with the Head of the Department regarding my institute hours; that is to say, the teaching work expected from me. I start tomorrow, Monday 9<sup>th</sup> of September, with labs in the C# course given to game programming students.
 
 After this, it was mostly work as usual. As I had not received my work copmuter yet, I spent my time in the library reading up on the course I was to be teaching in, as well as went through articles I had since earlier to see which could be of use. Friday afternoon I went home to my wife and kid to spend the weekend close to them. All in all, I am looking forward to this journey -- even though I am not particullarly fond of the commutes.
 
