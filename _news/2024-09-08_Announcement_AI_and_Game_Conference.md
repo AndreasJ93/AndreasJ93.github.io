@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Insert title here
+title: I will attend the AI and Game Conference
 date: 2024-09-08 19:00:00
 inline: true
 related_posts: false
