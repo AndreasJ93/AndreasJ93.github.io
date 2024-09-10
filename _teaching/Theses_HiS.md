@@ -203,6 +203,16 @@ Resultaten visade att Voronoi presterade bäst vid kriteriet tillgänglighet och
 <details><summary><b>Abstract</b></summary> Scrum är ett arbetssätt som implementeras för att främja kommunikation och produktivitet för företaget. I många fall används Scrum inte korrekt hos dataspelsföretag och dessa företag väljer medvetet eller omedvetet att inte implementera några av de viktiga delarna. Scrum tappar då effektivitet och kan i värsta fall bli ett negativt påverkande verktyg. Denna studie menar att undersöka och kartlägga hur Scrum används i spelutvecklingen i Skövde och har därmed behandlat frågeställningen “Vilka är de framträdande utvecklingsriktningarna i användandet av Scrum inom Spelutveckling?”Scrumpraxis kartlades hos de intervjuade företagen. Resultatet för studien är att scrum inte används korrekt i spelindustrin i Skövde och att många av de viktiga delarna förkastas eller görs mer sällan än vad de borde. Ett exempel på detta är sprintåterblick och sprintgranskning som används av väldigt få företag och är en väsentlig del av Scrum. Studien har även identifierat en generell avsaknad av en scrummaster bland de intervjuade företagen.
 </details>
 
+---
+
+<span style="font-size:1.25em"><b> DESIGNPRINCIPER FÖR QUESTVERKTYG: Ett designvetenskapligt perspektiv på utvecklingen av verktyg för questdesign </b></span> 
+
+**Student(s):** Andersson, Oscar \
+**Language:** Swedish \
+**Keywords:** Questdesign, tool-design, video-games, IDN, design-science-research \
+**Link:** [Read it here](https://his.diva-portal.org/smash/record.jsf?pid=diva2%3A1894349)
+<details><summary><b>Abstract</b></summary> Quests är en viktig del av många datorspel, särskilt rollspel. Medan tidigare forskning har fokuserat på verktyg för procedurell generering av uppdrag, utforskar denna studie verktyg för manuellt skapande av quests. Studien undersöker om användbarhetsprinciper för verktyg för att skapa interaktiva digitala narrativ (IDN) kan tillämpas på questdesignverktyg. Studien följer Design Science Research (DSR) ramverket för att utveckla och utvärdera ett verktyg som kan användas för att besvara frågan. Fyra av fem steg i ramverket genomfördes; problemförklaring, kravspecifikation, artefaktutveckling och demonstration. Resultatet blev en förtydligad definition av problemet som artefakten ska lösa, en kravspecifikation som grund för att utveckla questdesignverktyg, själva artefakten och beviset att artefakten kan lösa problemet i ett fall. Studien visar preliminärt att principerna kan fungera för questverktyg och bidrar med en grund och ett metodförslag för framtida studier att referera till vid utvecklingen av verktyg för questdesign.
+</details>
 <br>
 
 ## Examinator
