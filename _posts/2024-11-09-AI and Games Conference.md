@@ -30,8 +30,11 @@ From the get-go, I felt at home at this conference. I exchanged a few words with
 
 The next hours were an onslaught of information, new ideas, and discussions. A proper smörgåsbord, if you will. I had the good fortune to listen to:
  * Arya Subramanyam from Amazon Web Services, giving a strong talk regarding _Harnessing Multi-Agent Systems for Task Execution_, a talk that gave me a lot of new ideas in how to look at handling the complexity I will most likely meet during my studies,
+   <p> $\\[3cm]$ </p>
  * Monica Villanueva Aylagas from EA Seed gave the talk _Avalon: Can we Improve the Validity of Match-3 Games Level Generation_, which gave me an entire new view of how the information from a testing suit can be presented, and that we can introduce constraints to help guiding the system to create valid content,
+   <p> $\\[2cm]$ </p>
  * -- Break, talked to a lot of people, got to know a few of them better, and shared stories and interesting anecdotes,
+   <p> $\\[1cm]$ </p>
  * Anna Poulter-Jones from Sheridans gave a talk regarding _Navigating AI and IP: A Practical Toolkit for Devs_ which, even if perhaps not directly related as of now, gave me information I will most likely have to seek out soon anyway,
  * Raluca Gaina and Diego Perez from Tabletop R&D gave one of the most relevant talks for me, _Empowering Game Designers with Automatic Playtesting_ showcasing their own work with tabletop games and giving me a _ton_ of ideas for my own PhD studies and how to look forward,
  * Brendan Mulcahy from Epic Games discussed the experimental framework _Learning Agents in Unreal Engine_, giving a few insights in how one of the industry giants are working with related technologies for their Player-Bots,
