@@ -30,23 +30,35 @@ From the get-go, I felt at home at this conference. I exchanged a few words with
 
 The next hours were an onslaught of information, new ideas, and discussions. A proper smörgåsbord, if you will. I had the good fortune to listen to:
  * Arya Subramanyam from Amazon Web Services, giving a strong talk regarding _Harnessing Multi-Agent Systems for Task Execution_, a talk that gave me a lot of new ideas in how to look at handling the complexity I will most likely meet during my studies,
-   <p> $\\[3cm]$ </p>
+   <p> </p>
  * Monica Villanueva Aylagas from EA Seed gave the talk _Avalon: Can we Improve the Validity of Match-3 Games Level Generation_, which gave me an entire new view of how the information from a testing suit can be presented, and that we can introduce constraints to help guiding the system to create valid content,
-   <p> $\\[2cm]$ </p>
+   <p> </p>
  * -- Break, talked to a lot of people, got to know a few of them better, and shared stories and interesting anecdotes,
-   <p> $\\[1cm]$ </p>
+   <p> </p>
  * Anna Poulter-Jones from Sheridans gave a talk regarding _Navigating AI and IP: A Practical Toolkit for Devs_ which, even if perhaps not directly related as of now, gave me information I will most likely have to seek out soon anyway,
+   <p> </p>
  * Raluca Gaina and Diego Perez from Tabletop R&D gave one of the most relevant talks for me, _Empowering Game Designers with Automatic Playtesting_ showcasing their own work with tabletop games and giving me a _ton_ of ideas for my own PhD studies and how to look forward,
+   <p> </p>
  * Brendan Mulcahy from Epic Games discussed the experimental framework _Learning Agents in Unreal Engine_, giving a few insights in how one of the industry giants are working with related technologies for their Player-Bots,
+   <p> </p>
  * Alessandro Sestini and Luca Ballore from Electronic Arts and Electronic Arts Seed respectively discussed _AgentMerge: Enhancing Battlefield Automated Issue Management with LLMs_, giving a rare insight in how an repetitive and non-intuitive part of the QA pipeline and debugging work could be assisted with tools driven by LLMs, with only a 4 % false positive rate and a ticket handling speedup of nearly 3x,
+   <p> </p>
  * -- Lunch, and a lot of discussion with many people; both presenters and attendees. Liam, my saviour, supported me and helped looking out for my bag as I was running around like a headless chicken,
+   <p> </p>
  * Sam Devlin from Microsoft Research turned it all on its head, as he presented the process for the AI when they're _Learning to Play, Imitate, and Collaborate with Pesky Humans: Some Lessons from the AI's Perspective_, an interesting talk giving me great insights!
+   <p> </p>
  * Jaden Travnik from Sony AI probably held the presentation I felt most influential, as he made the case that _RL Agent Training is Property Based Training_. Deriving from this presentation, and piecing together bits and pieces from all the talks I attended, I think I have a better idea of how automatic Playtesting and automatic Quality Assurance can co-exist and help each other out, at least to a degree
+   <p> </p>
  * Following this was a panel with representatives from Amazon Web Services (Andrei Muratov), Unity Technologies (Changed from the program, I forgot your name, sorry!), Arm (Roberto Lopez Mendez), and Kinetix (Yassine Tahi). Hearing they talk and discuss _The Future of AI for Games_ was a treat!,
+   <p> </p>
  * -- Afternoon break, more talks and discussions with presenters and new friends alike!,
+   <p> </p>
  * Laurent Couvidou from Build a Rocket Boy gave the only "back to basic" AI agent talk I attended: _Tethering Agents for the Greater Good_, a great talk regarding keeping agents in specific areas without the player noticing all too much, and how this was implemented in different games he had worked with,
+   <p> </p>
  * Christoph Salge from the University of Hertfordshire talked about ten years of _The AI Settlement Generation Challenge in Minecraft_, a competition I think I have to get into at some point!,
+   <p> </p>
  * Lastly, the event was for me ended with Eric Jacopin from Hawkswell, talking about how _Analytic Geometry is your Friend_, a heavy and well conducted talk my head was _not_ ready for. I really must get back and look at the recording for this once it is up!
+   <p> </p>
 
 Unfortunately, I could not attend the Closing Remark by Tommy, instead opting to call home and say goodnight to my wife and kid. But what a venue! It was a lovely experience all around, and I just loved every second of it!
 
