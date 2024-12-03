@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start-up seminar
+title: Start-up seminar scheduled!
 date: 2024-12-03 12:00
 inline: false
 related_posts: false
