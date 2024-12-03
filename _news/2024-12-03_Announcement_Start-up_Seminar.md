@@ -5,10 +5,9 @@ date: 2024-12-03 12:00
 inline: false
 related_posts: false
 ---
-
-The start-up seminar for my PhD, where I will present my planned research for the faculty, has been scheduled to December 17th. During this seminar, the faculty will be able to give me peer feedback and engage in discussions around, or criticise, my planned work. It is all done so that I can give my plans another thought with a focus on an outside view which may otherwise be hard to get. After the seminar, I will have my first ISP review with my examiner. Title and abstract for the seminar can be found inside this announcement. Should the seminar be open for the public, a link for a Zoom-meeting will also be provided here at a later date.
-
+The start-up seminar for my PhD, where I will present my planned research for the faculty, has been scheduled to December 17th. More information inside the announcement!
 ---
+During this seminar, the faculty will be able to give me peer feedback and engage in discussions around, or criticise, my planned work. It is all done so that I can give my plans another thought with a focus on an outside view which may otherwise be hard to get. After the seminar, I will have my first ISP review with my examiner. Should the seminar be open for the public, a link for a Zoom-meeting will also be provided here at a later date.
 
 **Title**
 Leveling Up the Indie Scene: Automatic Play Testing and Quality Assurance
